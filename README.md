@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Adeel</h1>
-<h3 align="center">A 3rd year computer engineering student and aspiring software engineer at the University of Waterloo</h3>
+<h3 align="center">A 4th year computer engineering student and aspiring software engineer at the University of Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeradeel26&label=Profile%20views&color=0e75b6&style=flat" alt="omeradeel26" /> </p>
 
